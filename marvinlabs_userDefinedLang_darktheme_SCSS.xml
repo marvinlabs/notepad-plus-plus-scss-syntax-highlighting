@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="SCSS2" ext="scss" udlVersion="2.1">
+    <UserLang name="SCSS-Dark" ext="scss" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="yes" Keywords4="yes" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />

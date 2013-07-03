@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="SCSS2" ext="scss">
+    <UserLang name="SCSS-Light" ext="scss">
         <Settings>
             <Global caseIgnored="yes" />
             <TreatAsSymbol comment="no" commentLine="no" />
