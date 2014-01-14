@@ -4,7 +4,7 @@ We recently started to use [SASS / SCSS][1] to code our stylesheets. We were mis
 
 ## To enable SCSS syntax highlighting:
 
-*   In Notepad++, pick the `User Defined Dialog...` item from the `view` menu.
+*   In Notepad++, pick the `User Defined Dialog...` item from the `Language` menu.
 *   Click on the import button and simply select the XML file located in our ZIP file
 *   That's it, all your files with the *.scss* extension should now be highlighted
 
