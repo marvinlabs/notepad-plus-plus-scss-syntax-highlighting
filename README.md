@@ -11,7 +11,7 @@ We recently started to use [SASS / SCSS][1] to code our stylesheets. We were mis
 ## To enable autocomplete:
 
 *   go to your Notepad++ folder then to `/plugins/APIs/`
-*   duplicate the `css.xml` and rename this file to `scss.xml`.
+*   duplicate the `css.xml` and rename this file to `SCSS-Light.xml` or `SCSS-Dark.xml`
 
 #Our modifications
 
