@@ -19,7 +19,7 @@ We recently started to use [SASS / SCSS][1] to code our stylesheets. We were mis
 
 *   Highlighting for HTML tags
 *   Changed some colors
-*   Added syntax coloring for important comments starting with /*! instead of just /*
+*   Added syntax coloring for important comments starting with /\*! instead of just /\*
 *   Added syntax coloring for partial css keywords used while using [nested properties][4]
 
 
